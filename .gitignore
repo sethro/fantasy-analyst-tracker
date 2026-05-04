@@ -1,0 +1,14 @@
+# Virtual environment — never push this
+venv/
+
+# Database — rebuilt by scripts
+data/rankings.db
+
+# Mac system files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Python cache
+*.pyo
+.pytest_cache/
